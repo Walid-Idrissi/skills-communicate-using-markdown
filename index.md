@@ -11,8 +11,18 @@
 here's an image : ![Image of Yaktokat](https://octodex.github.com/images/yaktocat.png)
 
 --- 
-###### Code Block
+#### Code Block
 
 ``` javascript
 var MyVar = "Hello World !"
 ```
+
+---
+
+#### Task Lists 
+
+- [ ] Learn HTML
+- [ ] Learn CSS
+- [ ] Learn JS
+- [x] get started in GitHub
+
