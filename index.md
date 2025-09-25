@@ -3,4 +3,10 @@
 
 > hello world !
 
+--- 
+- the difference between the syntax of a link and an image
+  - a link uses the syntax : `[title](page link , say https://github.com for example)`
+  - whereas an images uses :  `**!**[alt](either a link for the image , or directly imagename.format)`
+
+here's an image : ![Image of Yaktokat](https://octodex.github.com/images/yaktocat.png)
 
