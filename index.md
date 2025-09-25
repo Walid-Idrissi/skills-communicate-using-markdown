@@ -10,3 +10,9 @@
 
 here's an image : ![Image of Yaktokat](https://octodex.github.com/images/yaktocat.png)
 
+--- 
+###### Code Block
+
+``` javascript
+var MyVar = "Hello World !"
+```
